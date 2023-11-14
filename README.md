@@ -93,21 +93,64 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 
 # Ejercicio 3 #
 
+>1.
+
+-	Realizar un request GET a la URL: 
+
+![Captura de pantalla (1)](![e394eddb-09de-4139-a5a4-b0e433f90a70](https://github.com/TomasFrano/Tomas-Frano/assets/150734518/7d9d828e-713c-4f26-a013-905f1a091cd2)
+) 
+
+>2
+- Realizar un request POST a la URL anterior, y con mi nombre y mail en el body:
 
 
 
 
+>3
+-	Realizar nuevamente un request GET a la URL:
+  
+
+# Ejercicio 4 #
 
 
 
+# Ejercicio 5 #
+
+>Lead:
+
+Es donde se encuentran las cuentas de los candidatos para la empresa. Los datos que se almacenan son: Nombre completo, Compañia, Estado o provincia, Correo electronico, Estado del candidato, Fecha de creacion, Alias del propietario.
+
+>Account:
+
+Es donde se encuentran las cuentas de las empresas con las que se tiene relacion. Los datos que se almacenan son: Nombre de la cuenta, Sitio de la cuenta, Estado o provincia de facturacion, Telefono, Tipo, Alias del propietario.
+
+>Contact:
+
+Es donde se guardan los contactos de los empleados que trabajan en las empresas con las que se tiene relacion. Los datos que se almacenan son: Nombre completo, Nombre de la cuenta, Cargo, Telefono, Correo electronico, Alias del propietario.
+
+>Opportunity:
+
+Es donde se encuentran las oportunidades de ventas. Los datos que se almacenan son: Nombre de la oportunidad, Nombre de la cuenta, Importe, Fecha de cierre, Etapa, Alias del propietario de la oportunidad.
+
+>Product:
+
+Es donde se encuentran los detalles de los productos. Los datos que se almacenan son: Nombre del producto, Codigo del producto, Alias del propietario.
+
+>PriceBook
+
+Es donde se encuentran los detallados los precios de los productos. Los datos que se almacenan son: Nombre de la lista de precios, Descripcion, Alias del propietario.
+
+>Quote:
 
 
 
+>Asset:
 
+Es donde se encuentran los datos de un activo. Los datos que almacena son: Contacto, Cuenta, Estado, Numero de serie, Propietario del activo, Ubicacion.
 
+>Case:
 
-
-
+Es donde se encuentan todos los casos de los contactos que se deben resolver. Los datos que se almacenan son: Numero del caso, Nombre del contacto, Asunto, Estado Prioridad, Fecha/hora de apertura, Alias del propietario del caso.
 
 
 
