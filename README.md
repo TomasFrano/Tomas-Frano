@@ -1,4 +1,4 @@
- # Ejercicio 2 # 
+ ## Ejercicio 2 ## 
 >1.¿Que es un servudor HTTP?
 
 Un servidor web es un ordenador de gran potencia que se encarga de “prestar el servicio” de transmitir la información pedida por sus clientes (otros ordenadores, dispositivos móviles, impresoras, personas, etc.) 
@@ -91,7 +91,7 @@ SOAP es un protocolo escrito en XML para el intercambio de información entre ap
 Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. La primera línea es la línea del request, que contiene su información básica (método HTTP, URL y versión)
 Content-Type es la propiedad de cabecera (header) usada para indicar el media type (en-US) del recurso. Content-Type dice al cliente que tipo de contenido será retornado hace 3 días.
 
-# Ejercicio 3 #
+## Ejercicio 3 ##
 
 >1.
 
@@ -112,11 +112,11 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 
 - La diferencia entre las llamadas 1 y 3 es que luego de realizada la segunda request GET se muestran mis datos en la pagina al final de la misma 
 
-# Ejercicio 4 #
+## Ejercicio 4 ##
 
 
 
-# Ejercicio 5 #
+## Ejercicio 5 ##
 
 >Lead:
 
@@ -160,7 +160,7 @@ Es donde se encuentan todos los casos de los contactos que se deben resolver. Lo
 ![Ejercicio 5 drawio](https://github.com/TomasFrano/Tomas-Frano/assets/150734518/d14fbee6-431c-4530-aa21-8d845bce449f)
 
 
-# Ejercicio 6 #
+## Ejercicio 6 ##
 
 - Soluciones de Salesforce
 
