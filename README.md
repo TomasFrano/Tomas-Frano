@@ -142,10 +142,6 @@ Es donde se encuentran los detalles de los productos. Los datos que se almacenan
 
 Es donde se encuentran los detallados los precios de los productos. Los datos que se almacenan son: Nombre de la lista de precios, Descripcion, Alias del propietario.
 
->Quote:
-
-
-
 >Asset:
 
 Es donde se encuentran los datos de un activo. Los datos que almacena son: Contacto, Cuenta, Estado, Numero de serie, Propietario del activo, Ubicacion.
