@@ -142,7 +142,7 @@ Es donde se encuentran los detalles de los productos. Los datos que se almacenan
 
 Es donde se encuentran los detallados los precios de los productos. Los datos que se almacenan son: Nombre de la lista de precios, Descripcion, Alias del propietario.
 
->Asset:
+>Asset
 
 Es donde se encuentran los datos de un activo. Los datos que almacena son: Contacto, Cuenta, Estado, Numero de serie, Propietario del activo, Ubicacion.
 
@@ -150,13 +150,13 @@ Es donde se encuentran los datos de un activo. Los datos que almacena son: Conta
 
 Es donde se encuentan todos los casos de los contactos que se deben resolver. Los datos que se almacenan son: Numero del caso, Nombre del contacto, Asunto, Estado Prioridad, Fecha/hora de apertura, Alias del propietario del caso.
 
->Article
+>Ejemplo de diagrama:
 
 
 ![Ejercicio 5 drawio](https://github.com/TomasFrano/Tomas-Frano/assets/150734518/d14fbee6-431c-4530-aa21-8d845bce449f)
 
 
-## Ejercicio 6 ##
+# Ejercicio 6 #
 
 - Soluciones de Salesforce
 
