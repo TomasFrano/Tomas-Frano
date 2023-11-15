@@ -114,7 +114,7 @@ Content-Type es la propiedad de cabecera (header) usada para indicar el media ty
 
 ## Ejercicio 4 ##
 
-
+[Módulos de Trailhead](https://www.salesforce.com/trailblazer/profile)
 
 ## Ejercicio 5 ##
 
